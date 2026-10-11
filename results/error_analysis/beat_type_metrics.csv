@@ -1,0 +1,7 @@
+beat_type,model,total,detected,recall
+S,Isolation Forest,193,110,0.5699481865284974
+S,LSTM Autoencoder,193,109,0.5647668393782384
+V,Isolation Forest,1341,749,0.5585384041759881
+V,LSTM Autoencoder,1341,497,0.3706189410887398
+F,Isolation Forest,26,2,0.07692307692307693
+F,LSTM Autoencoder,26,1,0.038461538461538464

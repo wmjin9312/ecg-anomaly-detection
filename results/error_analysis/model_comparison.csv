@@ -1,0 +1,5 @@
+case,count
+Both correct,12682
+Only Isolation Forest correct,437
+Only LSTM Autoencoder correct,376
+Both wrong,1915

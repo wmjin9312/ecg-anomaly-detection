@@ -1,0 +1,24 @@
+{
+    "seed": 42,
+    "batch_size": 128,
+    "hidden_size": 64,
+    "latent_size": 32,
+    "learning_rate": 0.001,
+    "max_epochs": 50,
+    "min_epochs": 20,
+    "patience": 10,
+    "gradient_clip": 1.0,
+    "calibration_groups": [
+        "203",
+        "214",
+        "231"
+    ],
+    "evaluation_groups": [
+        "108",
+        "113",
+        "201_202",
+        "222"
+    ],
+    "test_data_used": false,
+    "experiment_type": "exploratory"
+}
