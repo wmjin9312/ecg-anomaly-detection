@@ -218,3 +218,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ECG dataset
+data/raw/
+data/processed/
+
+# Trained model checkpoints
+*.pt
+*.pth
